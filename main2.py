@@ -17,7 +17,6 @@ class RedditScraper:
             soup = BeautifulSoup(response.text, 'html.parser')
             submissions = soup.find_all('div')
             
-      
             for submission in submissions:
                 print(submission)
                 # submission_data = {

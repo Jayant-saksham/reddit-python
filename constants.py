@@ -1,0 +1,7 @@
+CHEESE_NAME = 'parmesan'
+CLIENT_ID = 'm37a13HYN7WD6MPNVu6hLQ'
+CLIENT_SECRET = 'dmd_p1YtkIWC2woP5xqy-vgT2UmXlw'
+USER_NAME = 'Urvashi_Code'
+PASSWORD = 'Jayushi@1234'
+USER_AGENT = 'My app v1'
+SUB_REDDIT_NAME = 'Cheese'
